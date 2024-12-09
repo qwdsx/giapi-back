@@ -1,0 +1,62 @@
+[
+    {
+        "id": "atk",
+        "name": "ATK",
+        "roll_values": [13.62, 15.56, 17.51, 19.45],
+        "max_roll": 116.70
+    },
+    {
+        "id": "atk_per",
+        "name": "ATK%",
+        "roll_values": [4.08, 4.66, 5.25, 5.83],
+        "max_roll": 34.98
+    },
+    {
+        "id": "def",
+        "name": "DEF",
+        "roll_values": [16.20, 18.52, 20.83, 23.15],
+        "max_roll": 138.90
+    },
+    {
+        "id": "def_per",
+        "name": "DEF%",
+        "roll_values": [5.10, 5.83, 6.56, 7.29],
+        "max_roll": 43.74
+    },
+    {
+        "id": "hp",
+        "name": "HP",
+        "roll_values": [209.13, 239.00, 268.88, 298.75],
+        "max_roll": 1792.50
+    },
+    {
+        "id": "hp_per",
+        "name": "HP%",
+        "roll_values": [4.08, 4.66, 5.25, 5.83],
+        "max_roll": 34.98
+    },
+    {
+        "id": "cr",
+        "name": "Crit Rate",
+        "roll_values": [2.72, 3.11, 3.50, 3.89],
+        "max_roll": 23.34
+    },
+    {
+        "id": "cd",
+        "name": "Crit DMG",
+        "roll_values": [5.44, 6.22, 6.99, 7.77],
+        "max_roll": 46.62
+    },
+    {
+        "id": "em",
+        "name": "Elemental Mastery",
+        "roll_values": [16.32, 18.65, 20.98, 23.31],
+        "max_roll": 139.86
+    },
+    {
+        "id": "er",
+        "name": "Energy Recharge",
+        "roll_values": [4.53, 5.18, 5.83, 6.48],
+        "max_roll": 38.88
+    }
+]

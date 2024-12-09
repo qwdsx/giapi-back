@@ -1,0 +1,40 @@
+{
+    "id": "hu_tao",
+    "name": "Hu Tao",
+    "vision": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "rarity": 5,
+    "talents": [
+        {
+            "type": "Normal",
+            "name": ""
+        },
+        {
+            "type": "Skill",
+            "name": ""
+        },
+        {
+            "type": "Burst",
+            "name": ""
+        }
+    ],
+    "stats": [
+        {
+            "lvl": "90",
+            "hp": 13103,
+            "atk": 322.89,
+            "def": 799.3,
+            "crit_rate": 5,
+            "crit_dmg": 88.4
+        },
+        {
+            "lvl": "80+",
+            "hp": 12182,
+            "atk": 300.19,
+            "def": 743.11,
+            "crit_rate": 5,
+            "crit_dmg": 88.4
+        }
+    ]
+}
